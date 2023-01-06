@@ -1,2 +1,3 @@
 # DIBD
-Blind Hyperspectral Image Denoising with Degradation Information Learning
+Blind Hyperspectral Image Denoising with Degradation Information Learning.
+The codes will come soon.
